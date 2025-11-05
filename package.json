@@ -1,0 +1,16 @@
+{
+  "name": "23PROJEKAT",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "devDependencies": {
+    "axios": "^1.13.1",
+    "webpack": "^5.102.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.1.0"
+  }
+}
