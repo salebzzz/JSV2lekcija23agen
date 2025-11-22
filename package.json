@@ -6,7 +6,9 @@
     "watch": "webpack --watch"
   },
   "devDependencies": {
-    "axios": "^1.13.1",
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "dotenv-webpack": "^8.1.1",
     "webpack": "^5.102.1",
     "webpack-cli": "^6.0.1"
   },

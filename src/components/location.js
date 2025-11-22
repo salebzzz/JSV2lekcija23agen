@@ -4,8 +4,8 @@ export function getUserLocation() {
     let userLocation = "";
 
     while(userLocation.trim() ===  "") {
-        userLocation = prompt("Unestite vas grad");
+        userLocation = prompt("Unesite vas grad");
     }
 
-    return userLocation
+    return userLocation;
 }
